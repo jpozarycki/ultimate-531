@@ -2,6 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a67d9f9-fda0-41e9-a05a-4c13a0a938de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webapp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +65,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UhPnx67E4btrtEhFUoyKf4IbV6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -137,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575810411306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added webapp">
+      <created>1575813249941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575813249942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,18 +186,20 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added git config" />
-    <option name="LAST_COMMIT_MESSAGE" value="added git config" />
+    <MESSAGE value="added webapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="added webapp" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="816" y="327" width="924" height="821" key="CommitChangelistDialog2" timestamp="1575810411166">
+    <state x="816" y="320" width="924" height="821" key="CommitChangelistDialog2" timestamp="1575813249815">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state x="816" y="327" width="924" height="821" key="CommitChangelistDialog2/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575810411166" />
-    <state x="878" y="467" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1575810417450">
+    <state x="816" y="320" width="924" height="821" key="CommitChangelistDialog2/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575813249815" />
+    <state x="878" y="460" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1575813252186">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state x="878" y="467" width="800" height="542" key="Vcs.Push.Dialog.v2/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575810417450" />
+    <state x="878" y="460" width="800" height="542" key="Vcs.Push.Dialog.v2/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575813252186" />
     <state x="922" y="570" key="com.intellij.ide.util.TipDialog" timestamp="1575806029649">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
