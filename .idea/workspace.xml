@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a67d9f9-fda0-41e9-a05a-4c13a0a938de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-api/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rest-api/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +41,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -55,7 +55,18 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.Angular CLI Server (webapp)">
+    <configuration name="E2E Tests (webapp)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/webapp/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (webapp)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
     <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="common.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpozarycki.common.CommonApplication" />
@@ -84,6 +95,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Angular CLI Server (webapp)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/webapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -109,12 +130,34 @@
       <updated>1575806024810</updated>
       <workItem from="1575806028374" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary="added git config">
+      <created>1575810411306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575810411306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="added git config" />
+    <option name="LAST_COMMIT_MESSAGE" value="added git config" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="816" y="327" width="924" height="821" key="CommitChangelistDialog2" timestamp="1575810411166">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="816" y="327" width="924" height="821" key="CommitChangelistDialog2/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575810411166" />
+    <state x="878" y="467" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1575810417450">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="878" y="467" width="800" height="542" key="Vcs.Push.Dialog.v2/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575810417450" />
     <state x="922" y="570" key="com.intellij.ide.util.TipDialog" timestamp="1575806029649">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
