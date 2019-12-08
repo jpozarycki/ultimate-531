@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a67d9f9-fda0-41e9-a05a-4c13a0a938de" name="Default Changelist" comment="" />
+    <list default="true" id="0a67d9f9-fda0-41e9-a05a-4c13a0a938de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rest-api/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +32,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UhPnx67E4btrtEhFUoyKf4IbV6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -51,6 +59,13 @@
     <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="common.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpozarycki.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dao.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpozarycki.dao.DaoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
