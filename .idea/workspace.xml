@@ -11,8 +11,25 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/common">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/dao">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/rest-api">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="ProjectId" id="1UhPnx67E4btrtEhFUoyKf4IbV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +39,36 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpozarycki.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestApiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rest-api.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpozarycki.restapi.RestApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rest-api.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jpozarycki.restapi.RestApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,5 +104,9 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="922" y="570" key="com.intellij.ide.util.TipDialog/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575806029649" />
+    <state x="518" y="309" width="1520" height="829" key="new project wizard" timestamp="1575810176751">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="518" y="309" width="1520" height="829" key="new project wizard/0.27.2560.1413/2560.0.1920.1080@0.27.2560.1413" timestamp="1575810176751" />
   </component>
 </project>
